@@ -1,0 +1,12 @@
+Nvim
+
+:vs => vertical split
+ctrl + w + h || ctrl + w + l => (select left, right window)
+:only => close all other windows
+:! COMMAND => cmd command
+crtl + w + w => select file tree 
+
+Cmd 
+
+cmd + w => close terminal window
+cmd + t => new terminal window
